@@ -1,0 +1,27 @@
+body{
+	background-image: url(file:///C:/Users/mine/Documents/Q2%20ICT%20Folder/Q2%20Quiz%201/images/bg.jpg);
+
+}
+
+
+h2{
+	text-align: center;
+}
+.custom-container {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: black;
+	opacity: 0.7;
+	padding: 10px;
+	border-radius: 10px;
+	box-shadow: 13px 12px 5px -3px rgba(173,182,222,0.75);
+	-webkit-box-shadow: 13px 12px 5px -3px rgba(173,182,222,0.75);
+	-moz-box-shadow: 13px 12px 5px -3px rgba(173,182,222,0.75);
+
+}
+* {
+    color: white;
+}
+footer{
+	text-align: center;
+}
